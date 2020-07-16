@@ -9,13 +9,13 @@
     padding: 0;
 }
 
-input {
+/*input {
     all: unset;
 }
 
 label {
     all: unset;
-}
+}*/
 
 #app {
     margin: 30px;
@@ -23,6 +23,29 @@ label {
     width: 100%;
     
 }
+
+/*
+.btn-label {
+    display: inline-block;
+    font-size: 2rem;
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+    width: 64px;
+    height: 60px; 
+    float: left;
+}
+
+.input {
+    display: inline-block;
+    font-size: 2rem;
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 60px;
+}
+*/
 
 .btn-label {
     display: inline-block;
