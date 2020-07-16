@@ -1,0 +1,74 @@
+/*
+*   SorteInsta
+*   Leandro Daher, 2020
+*   
+*
+*/
+
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    all: unset;
+}
+
+label {
+    all: unset;
+}
+
+#app {
+    margin: 30px;
+    height: 128px;
+    width: 100%;
+    
+}
+
+.btn-label {
+    display: inline-block;
+    font-size: 2rem;
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+
+    width: 64px;
+    height: 60px;
+
+    vertical-align: middle; 
+}
+
+.input {
+    display: inline-block;
+    font-size: 2rem;
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+
+    
+    width: 400px;
+    height: 60px;
+    
+    vertical-align: middle; 
+
+}
+
+
+
+
+#container {
+    
+    width: 100%;
+    border-color: blue;
+}
+
+.box {
+    display: inline-block;
+    width: 100px; height: 200px;
+    margin: 10px 20px;
+}
+
+#box-1 { background-color: red; }
+#box-2 { background-color: green; }
+#box-3 { background-color: pink; }
