@@ -1,1 +1,0 @@
-Esta é apenas uma implementação de base, depois devo adaptá-la para webpack.
