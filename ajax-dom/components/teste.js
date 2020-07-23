@@ -7,7 +7,7 @@ export class Teste {
 
     getData() {
         document.querySelector(this.container).innerHTML = "Loading...";
-        //atraso proposital 5s
+        //atraso proposital 3s
         setTimeout(()=>{
             $.Ajax({
                 url:"http://worldtimeapi.org/api/timezone",//request URL
